@@ -73,7 +73,7 @@ body.dark-mode {
 body.dark-mode .btn-biodata {
     background-color: #000000;
     color: #f1f1f1;
-    border-color: #444;
+    border-color: #000000;
 }
 
 body.dark-mode .btn-biodata:hover {
@@ -83,7 +83,7 @@ body.dark-mode .btn-biodata:hover {
 }
 
 body.dark-mode #toggle-mode {
-    background-color: #444;
+    background-color: #000000;
     color: #f1f1f1;
 }
 .container {
